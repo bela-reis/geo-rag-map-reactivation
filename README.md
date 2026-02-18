@@ -6,7 +6,7 @@ This repository contains an automated pipeline that uses modern machine learning
 
 ---
 
-## 🚀 Project Vision
+## Project Vision
 
 Many valuable geographic insights are trapped inside PNG, JPG, or PDF map figures, but these files typically lack the coordinate reference system (CRS) or geospatial metadata that modern GIS tools require. This project demonstrates how machine learning and geometric reasoning can extract latent spatial signals and reintroduce them into geospatial workflows, enabling map imagery to participate in spatial analytics and GeoRAG applications.
 
@@ -14,7 +14,7 @@ Rather than focusing on survey-grade geodetic precision, the pipeline prioritize
 
 ---
 
-## 📌 How It Started
+## How It Started
 
 This work builds on the Medium article titled:
 
@@ -31,7 +31,7 @@ This repository expands and hardens that concept by:
 
 ---
 
-## 🛠 Pipeline Overview
+## Pipeline Overview
 
 The high-level workflow is:
 
@@ -50,7 +50,7 @@ The high-level workflow is:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```plaintext
 geo-rag-map-reactivation/
