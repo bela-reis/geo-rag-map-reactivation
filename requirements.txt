@@ -1,0 +1,6 @@
+numpy
+pyproj
+ultralytics
+opencv-python
+GDAL==3.8.4
+shapely
