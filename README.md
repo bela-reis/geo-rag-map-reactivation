@@ -1,4 +1,4 @@
-# **Re-activating Spatial Intelligence in Static Map Imagery**
+# **Extracting Spatial Context from Static Map Figures Using Computer Vision**
 
 ## **Abstract**
 
